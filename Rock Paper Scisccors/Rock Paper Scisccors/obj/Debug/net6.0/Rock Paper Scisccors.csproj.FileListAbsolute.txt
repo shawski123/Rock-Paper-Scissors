@@ -1,0 +1,15 @@
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\bin\Debug\net6.0\Rock Paper Scisccors.exe
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\bin\Debug\net6.0\Rock Paper Scisccors.deps.json
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\bin\Debug\net6.0\Rock Paper Scisccors.runtimeconfig.json
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\bin\Debug\net6.0\Rock Paper Scisccors.dll
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\bin\Debug\net6.0\Rock Paper Scisccors.pdb
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\obj\Debug\net6.0\Rock Paper Scisccors.csproj.AssemblyReference.cache
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\obj\Debug\net6.0\Rock Paper Scisccors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\obj\Debug\net6.0\Rock Paper Scisccors.AssemblyInfoInputs.cache
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\obj\Debug\net6.0\Rock Paper Scisccors.AssemblyInfo.cs
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\obj\Debug\net6.0\Rock Paper Scisccors.csproj.CoreCompileInputs.cache
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\obj\Debug\net6.0\Rock Paper Scisccors.dll
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\obj\Debug\net6.0\refint\Rock Paper Scisccors.dll
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\obj\Debug\net6.0\Rock Paper Scisccors.pdb
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\obj\Debug\net6.0\Rock Paper Scisccors.genruntimeconfig.cache
+C:\Users\sean2\source\repos\Rock Paper Scisccors\Rock Paper Scisccors\obj\Debug\net6.0\ref\Rock Paper Scisccors.dll
